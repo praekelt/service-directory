@@ -1,7 +1,7 @@
 gunicorn
 dj-database-url
 
-Django==1.8.8
+Django==1.11.29
 djangorestframework==3.3.2
 django-rest-swagger==0.3.4
 django-import-export==0.4.2
